@@ -24,8 +24,5 @@ if __name__== "__main__":
     user_config=openJson(filepath=config_path)
 
 
-    print(config_path)
-
-
 
 

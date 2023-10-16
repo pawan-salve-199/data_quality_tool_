@@ -8,6 +8,7 @@ df = spark.read.option("header", "true").option("inferSchema", "true") \
     .csv(r"C:\Users\manib\OneDrive\Desktop\data_quality_tooll_\source_dataset\SalesOrderDetail.csv")
 
 # Create a Great Expectations SparkDFDataset
+
 gx_df = SparkDFDataset(df)
 
 # Create an empty list to store the result dictionaries
