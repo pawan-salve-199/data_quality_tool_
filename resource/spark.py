@@ -35,14 +35,18 @@ class SparkClass:
             sys.exit()
 
 
-    def data_load(self, file_path=None, file_format="jdbc", jdbc_params={}, **options):
+    def data_load(self, file_path=None, file_format="jdbc", jdbc_params={}, options=None):
+
         try:
+            if options is None:
+                options={}
+
             if not isinstance(self.spark, SparkSession):
                 raise ValueError("Spark session is not initialized. Please connect first.")
             
 
             if file_format.upper()=="CSV":
-                df = self.spark.read.format(file_format).load(file_path, **options)
+                df = self.spark.read.format(file_format).options(**options).load(file_path)
             else:
                  raise NotImplementedError("Data source not supported.")
             self.logger.info(f"Data read from {file_format}")
