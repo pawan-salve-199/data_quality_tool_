@@ -1,0 +1,12 @@
+{
+    "log_config":{
+        "file_path":"app.log",
+        "log_level":"INFO",
+        "log_formatter":"%(asctime)s - %(levelname)s - Line %(lineno)d - %(message)s"
+                 },
+
+    "spark_conf":{
+        "app_name" :"data_quality_tool",
+        "master" : "local[*]"
+    }
+}
