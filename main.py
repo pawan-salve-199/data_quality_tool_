@@ -23,6 +23,6 @@ if __name__== "__main__":
     config_path = sys.argv[1]
     user_config=openJson(filepath=config_path)
     print(config_path)
-
+    print('DEMO')
 
 
