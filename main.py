@@ -23,7 +23,11 @@ if __name__== "__main__":
     config_path = sys.argv[1]
     user_config=openJson(filepath=config_path)
 
-    df=spark_class.data_load(file_format='csv',file_path=user_config['source_location'],options={"header":"True"})
+
+    df=spark_class.data_load(file_format='csv',
+                             file_path=user_config['source_location'],
+                             options={"header":"True"}
+                             )
     df.show()
 
 
