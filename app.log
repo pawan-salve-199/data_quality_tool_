@@ -32,3 +32,79 @@
 2023-10-16 13:32:07,598 - INFO - Line 31 - Configured the Spark for the specified dependencies
 2023-10-16 13:32:07,598 - INFO - Line 17 - Spark Session Initialized.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 14:41:04,017 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 14:41:06,603 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 14:41:06,604 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 14:42:08,085 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 14:42:10,802 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 14:42:10,802 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 14:54:59,566 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 14:55:04,285 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 14:55:04,285 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 14:57:03,232 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 14:57:05,462 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 14:57:05,462 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 14:58:23,228 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 14:58:25,492 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 14:58:25,498 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 14:59:20,208 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 14:59:22,508 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 14:59:22,508 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:00:28,688 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:00:31,293 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:00:31,293 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:02:02,485 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:02:04,649 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:02:04,649 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:02:27,429 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:02:29,514 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:02:29,514 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:05:27,743 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:05:30,063 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:05:30,063 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:10:20,379 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:10:22,808 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:10:22,808 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:19:11,200 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:19:13,687 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:19:13,687 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:19:43,182 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:19:45,550 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:19:45,550 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:20:15,090 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:20:17,481 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:20:17,481 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:21:49,757 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:21:52,643 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:21:52,643 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:22:42,125 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:22:44,370 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:22:44,370 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:23:45,528 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:23:47,954 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:23:47,954 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 15:36:56,687 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 15:36:59,314 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 15:36:59,314 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-10-16 16:05:27,684 - INFO - Line 15 - Entering start_spark method.
+2023-10-16 16:05:32,310 - INFO - Line 31 - Configured the Spark for the specified dependencies
+2023-10-16 16:05:32,310 - INFO - Line 17 - Spark Session Initialized.
+------------------------------------------------------------------------------------------------------------------------------------------------------

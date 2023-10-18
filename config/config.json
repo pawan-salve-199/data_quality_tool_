@@ -8,7 +8,7 @@
             "test_case_id": "TC-001",
             "composer_id": "Composer-001",
             "query": "SELECT * FROM data_table_1 ",
-            "expectations": "expectation_name",
+            "expectations": "expect_column_to_exist",
             "failure_threshold": 0.05,
             "save_failed_records": true,
             "failed_records_destination": "path/to/failed_records/"
@@ -18,7 +18,7 @@
             "test_case_id": "TC-002",
             "composer_id": "Composer-002",
             "query": "SELECT * FROM data_table_2 ",
-            "expectations": "expectation_name",
+            "expectations": "expect_column_values_to_be_unique",
             "failure_threshold": 0.05,
             "save_failed_records": true,
             "failed_records_destination": "path/to/failed_records/"
