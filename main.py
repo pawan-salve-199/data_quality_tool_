@@ -1,6 +1,4 @@
-
-import sys,os
-import asttokens
+from asttokens.util import Token
 from resource.logger import *
 from resource.spark import *
 from resource.utils import *
@@ -24,14 +22,6 @@ if __name__== "__main__":
     obj=GX(dataset,spark)
     if expectation=="expect_column_to_exist":
         obj.expect_column_to_exist_()
-
-
-
-
-
-
-
-
 
 
   

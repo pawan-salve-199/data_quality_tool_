@@ -60,5 +60,4 @@ class GreatExpectations:
         data=gx_df.expect_column_to_exist("SalesOrderID")
         print(data)
 
-        
 
